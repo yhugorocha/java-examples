@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lombok-1.18.32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/lombok-1.18.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/poi-ooxml-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/postgresql-42.7.3.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/libs" recursive="false" />
+  </library>
+</component>
