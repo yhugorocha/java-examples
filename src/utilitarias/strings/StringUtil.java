@@ -2,7 +2,7 @@ package utilitarias.strings;
 
 import java.util.StringTokenizer;
 
-public class Main {
+public class StringUtil {
     public static void main(String[] args) {
 
         //INSTANCIANDO STRINGS
